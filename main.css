@@ -1,0 +1,260 @@
+body {
+	   
+	   font-family: "Open Sans", helvetica, arial;
+	   
+	   }
+
+div#header { background-color:#D80000; 
+			color :#EEEEEE;
+			border:2px solid;
+			border-radius:25px;
+			
+}
+
+div#menu {
+	
+	height:45px;
+	width:100%;
+	text-align:center;
+	word-spacing:40px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+	border:2px solid;
+			border-radius:25px
+			
+}
+
+div#userimage {
+	
+	float:right;
+	padding-right:10%;
+}
+
+img#left {
+	float:left;
+}
+
+img#right {
+	float:right;
+}
+div#loginandreg {
+	
+	float:right;
+	padding-top:0.5%
+}
+
+
+div#content {
+	background-color:#EEEEEE;
+	width:100%;
+	padding-left:0.5%
+	
+	
+}
+
+div#content2 {
+	background-color:#EEEEEE;
+	width:50%;
+	float:left;
+	
+}
+
+div#content3 {
+	background-color:#EEEEEE;
+	width:50%;
+	float:right;
+	padding-left:3%;
+	
+}
+
+div#contentregister {
+	
+	background-color:#EEEEEE;
+	width:100%;
+
+	
+}
+
+div#playersearch {
+	
+	text-align: center;
+}
+
+form#editplayer {
+	text-align:center;
+}
+
+form#edituser {
+	text-align:center;
+	
+}
+
+div#footer {
+	
+	background-color:#EEEEEE;
+	clear:both;
+	text-align:center;
+	
+	 } 
+	
+	
+table#passwordtable {
+	
+	padding-left:490px;
+}
+	
+table#playerstable {
+	
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}	
+
+table#fixturestable {
+	
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:1px solid #CCC;
+    border-collapse:collapse;
+    text-align:center;
+    
+}
+	
+td#fixturestable {
+	border:none;
+	
+}
+
+	
+a#menulink:link {text-decoration:none; 
+				color:#D80000;}
+a#menulink:visted {text-decoration:none; 
+				color:#D80000;}
+a#menulink:hover {text-decoration:none; 
+				color:#D80000;}
+
+a:link {text-decoration:none;
+		color: #D80000;
+		}
+a:visited {text-decoration:none;
+		color: #D80000;}
+		
+a:hover {text-decoration:none;
+		color: #D80000;}
+		
+.images { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h1 {
+	color:white;
+	font-size: 48px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+	text-align: center;
+}
+
+h2 { 
+   position: absolute; 
+   top: 20%; 
+   left: 50%; 
+   width: 100%; 
+}
+
+h2 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+}
+
+h3{ position: absolute; 
+   top: 45%; 
+   left: 50%; 
+   width: 100%; 
+	
+}
+
+h3 span {color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; }
+   
+ h4{ position: absolute; 
+   top: 70%; 
+   left: 50%; 
+   width: 100%; 
+	
+}
+
+h4 span {color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; }
+
+h5{ position: absolute; 
+   top: 95%; 
+   left: 50%; 
+   width: 100%; 
+	
+}
+
+h5 span {color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; }
+   
+ h6 {
+	color:#D80000;
+	font-size: 20px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+
+
+label {display:block;
+       font-weight:bold;
+       text-align:right;
+       width: 200px;
+       float:left;
+}
+ 
+#top{
+    margin-left: 75px;
+    font-weight: bold;
+    font-size:24px;
+    color: red;
+    padding: 10px;
+}
+#wrapper{
+    border:solid 2px #b7ddf2;
+    background:#ebf4fb;
+    width: 700px;
+    margin: auto;
+ 
+    padding:20px;
+    min-height:180px;
+}
+ 
+#form{margin-top: 4%;
+      margin-left: auto;
+      padding-left: 150px;
+     }
+ 
+#bottom{
+    margin-left: 450px;
+    font-size: 24px;
+}
+.bred{background-color:red;}
+.white{background-color:#FFF;}
+.green{color:green;}
+.red{color:red;}
+
+
