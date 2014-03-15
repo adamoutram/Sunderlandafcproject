@@ -9,6 +9,7 @@ session_start();
 			}
 ?>
 <!DOCTYPE html>
+<!--this document has also been edited and reuploaded to github-->
 <html>
 	<head>
 		<title>Sunderland AFC</title>

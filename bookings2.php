@@ -5,7 +5,7 @@ if(!file_exists($the_file)) die("<b>".$the_file."</b> not found");
 else		require_once($the_file);
 ?>
 <!DOCTYPE html>
-
+<!--this document has also been edited and reuploaded to github-->
 <html>
 <head>
 	
